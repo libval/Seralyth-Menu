@@ -64,7 +64,7 @@ namespace Seralyth.Menu
             arraylist = canvas.Find("Arraylist")?.GetComponent<TextMeshProUGUI>();
             controlBackground = canvas.Find("ControlUI")?.GetComponent<Image>();
 
-        debugUI = canvas.Find("DebugUI")?.gameObject;
+            debugUI = canvas.Find("DebugUI")?.gameObject;
             if (debugUI != null)
                 debugUI.AddComponent<UIDragWindow>();
 
