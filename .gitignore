@@ -3,15 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# Rider / build output
-.idea/
-bin/
-obj/
-
-# Local MSBuild configuration
-Directory.Build.props
-Directory.Build.targets
-
 # User-specific files
 *.rsuser
 *.suo
