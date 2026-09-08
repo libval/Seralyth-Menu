@@ -6744,6 +6744,7 @@ jgs \_   _/ |Oo\
         public static string narratorName = "Default";
         public static int narratorIndex;
         public static bool showEnabledModsVR = true;
+        public static bool showEnabledModsPC = true;
         public static bool advancedArraylist;
         public static bool flipArraylist;
         public static bool hideSettings;
