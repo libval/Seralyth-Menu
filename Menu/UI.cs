@@ -218,7 +218,7 @@ namespace Seralyth.Menu
                 if (roomStatus != null)
                     roomStatus.color = guiColor;
 
-                if (arraylist != null)
+                if (arraylist != null || showEnabledModsPC != true)
                     arraylist.color = guiColor;
 
                 if (watermark != null)
